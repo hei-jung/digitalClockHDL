@@ -1,4 +1,5 @@
 /*clock_gen.v*/
+/*Clock Generator 모듈*/
 module clock_gen(Clock_5K, Reset, Clock_1Sec, Clock_1MSec);
 
 input Clock_5K, Reset;
